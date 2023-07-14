@@ -1,0 +1,13 @@
+# Target labels
+ bootloader
+# Source files and their labels
+/home/ali/esp/master/examples/storage/sd_card/sdmmc/build/CMakeFiles/bootloader
+/home/ali/esp/master/examples/storage/sd_card/sdmmc/build/CMakeFiles/bootloader.rule
+/home/ali/esp/master/examples/storage/sd_card/sdmmc/build/CMakeFiles/bootloader-complete.rule
+/home/ali/esp/master/examples/storage/sd_card/sdmmc/build/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule
+/home/ali/esp/master/examples/storage/sd_card/sdmmc/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule
+/home/ali/esp/master/examples/storage/sd_card/sdmmc/build/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule
+/home/ali/esp/master/examples/storage/sd_card/sdmmc/build/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule
+/home/ali/esp/master/examples/storage/sd_card/sdmmc/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule
+/home/ali/esp/master/examples/storage/sd_card/sdmmc/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule
+/home/ali/esp/master/examples/storage/sd_card/sdmmc/build/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule
